@@ -5,8 +5,6 @@ public class Person {
     int age;
 
     void displayInformation(){
-        System.out.println("Name : "+name);
-        System.out.println("Address : "+address);
-        System.out.println("Age : "+age);
+
     }
 }
